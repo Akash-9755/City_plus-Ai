@@ -1,0 +1,26 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data / generated files
+*.log
+
+# Chroma / vector database
+ChromaDB/
+VectorStore/

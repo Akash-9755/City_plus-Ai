@@ -1,0 +1,30 @@
+# LangChain Core - Runnables, prompts, messages, parsers
+langchain-core
+
+# LangChain main package
+langchain
+
+# Google Gemini integration
+langchain-google-genai
+
+# Mistral integration
+langchain-mistralai
+
+# Groq integration
+langchain-groq
+
+# Hugging Face integrations
+langchain-huggingface
+
+# Environment variables (.env)
+python-dotenv
+
+# Pydantic - structured outputs and data validation
+pydantic
+
+# HTTP requests
+requests
+
+langchain_community
+SpeechRecognition
+pyaudio
