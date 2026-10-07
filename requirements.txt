@@ -26,4 +26,4 @@ pydantic
 requests
 
 langchain_community
-
+tavily-python
